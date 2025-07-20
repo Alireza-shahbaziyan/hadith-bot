@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS", // یا ESNext اگه esm هستی
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "outDir": "./dist"
+  },
+  "include": ["src"]
+}
