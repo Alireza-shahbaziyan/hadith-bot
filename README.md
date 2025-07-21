@@ -77,7 +77,7 @@ npx prisma migrate dev --name init
 5. **Start the bot:**
 
 ```bash
-npx ts-node src/index.ts
+npm start 
 ```
 
 ---
